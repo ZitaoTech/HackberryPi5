@@ -1,4 +1,4 @@
-# Install Manjaro on your HackberryPi4B
+# Install Manjaro on your HackberryPi5
 
 First Download and flash the image from [Manjaro web](https://manjaro.org/products/download/arm?device=Raspberry+Pi+4B/400/3B%2B/3B/Zero+2)
 Copy and paste the following lines into the `/boot/config.txt`  
