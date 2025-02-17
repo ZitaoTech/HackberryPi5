@@ -1,4 +1,4 @@
-# Install Ubuntu on your HackberryPi4B
+# Install Ubuntu on your HackberryPi5
 
 After you flashe the Ubuntu image into the tf card, copy the following lines into `/boot/config.txt` and overwrite them.
 Then you can see the HackberryPi now booting into Ubuntu
