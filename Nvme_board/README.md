@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/4c287e18-4d6d-4ea4-9cf7-55ae6eaccde0)
 
-### 2. Not all 2242 or 2230 ssd can work with this nvme board, I suggest you just buy the ssd from [waveshare](https://www.waveshare.com/sk-nvme-2242-128g-ssd-m.2.htm).  
+### 2. Not all 2242 or 2230 ssd can work with this nvme board, I suggest you just buy the ssd from [Waveshare](https://www.waveshare.com/sk-nvme-2242-128g-ssd-m.2.htm).  
 
 ![image](https://github.com/user-attachments/assets/e15ab000-c13d-48e8-acdf-7050b576d0ef)
 
