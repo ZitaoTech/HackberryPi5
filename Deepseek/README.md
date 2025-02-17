@@ -22,3 +22,6 @@ curl -fsSL https://ollama.com/install.sh | sh
 ollama run deepseek-r1:1.5b
 ```
 ![image](https://github.com/user-attachments/assets/8201ccb8-dfe7-4a23-b012-5d5d18c0e085)
+
+
+You can also try the 7b model, but that's kinda slow
