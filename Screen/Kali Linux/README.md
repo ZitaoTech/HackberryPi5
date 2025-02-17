@@ -1,4 +1,4 @@
-# Install Kali on your HackberryPi4B
+# Install Kali on your HackberryPi5
 
 You can download the image from [pi-imager](https://www.raspberrypi.com/software/)  
 After you download and flash the image into the tf card, Copy and paste the following lines into the `/boot/config.txt`  
