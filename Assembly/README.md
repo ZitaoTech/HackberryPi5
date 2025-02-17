@@ -8,3 +8,5 @@
 
 Note: If you put no batteries into the device, the pi draws power from the charging circuit which may can't provide enough current for the pi to boot because the peak current during booting is very high.
 So you must put at least one 18650 battery into the device to make the device boot.  
+
+PS： There is a tiktock video that introduces the [installation](https://www.tiktok.com/@h4ck1ng.me/video/7459517666387152150) of the pi
