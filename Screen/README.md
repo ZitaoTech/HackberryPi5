@@ -1,6 +1,6 @@
 # This page will tell you the ways to install the display driver in different operating system and some using tips of the display  
-### First you need to install the operating system you need into RaspberryPi, this is the [tutorial](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system), when you choose device, select Raspberry Pi4.  
-### There are 2 micro-HDMI ports on the top side of HackberryPi4B. You can connect it with another screen. You can use the following commands to disable/enable the displaying.
+### First you need to install the operating system you need into RaspberryPi, this is the [tutorial](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system), when you choose device, select Raspberry Pi5.  
+### There are 2 micro-HDMI ports on the top side of HackberryPi5. You can connect it with another screen. You can use the following commands to disable/enable the displaying.
 
 ```sh
 vcgencmd display_power 0
@@ -18,8 +18,7 @@ And the `config.txt` file will look like this:
 ![image](https://github.com/user-attachments/assets/33139e0d-2477-4732-8ff5-a3e2bce9d383)  
 Follow the steps:  
 Insert the TF card in to the slot  
-Turn on the HackberryPi4B, the screen will be black, wait until the left green led on board stop blinking. that will take about 30 seconds.  
-Turn off the HackberryPi and reboot.  
+Turn on the HackberryPi5, the screen will be black, the device will reboot several times until there is image on the display, if there isn't. Turn off the device and turn it on agin.  
 And then your HackberryPi will run Raspberry Pi OS on the screen.  
 
 # Raspberry Pi OS before 04/04/2022   
