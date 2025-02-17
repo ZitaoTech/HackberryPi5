@@ -5,3 +5,5 @@ Spacer: 4 pcs M2.5X15+6mm
 Screws: 4 pcs M2.5x6  
 2pcs M2x6  
 2pcs M2x14  
+
+recommend to print the red switch with 0.2mm nozzel
