@@ -1,5 +1,10 @@
 # This page tells you how to install the pi5 into the device
 
+### Note: If you put no batteries into the device, the pi draws power from the charging circuit which may can't provide enough current for the pi to boot because the peak current during booting is very high.
+So you must put at least one 18650 battery into the device to make the device boot.  
+
+PS： There is a tiktock video that introduces the [installation](https://www.tiktok.com/@h4ck1ng.me/video/7459517666387152150) of the pi
+
 ### 1. First remove the 4 black screws on the pi case with the bigger black screwdriver:  
 ![image](https://github.com/user-attachments/assets/f017cd49-897c-44b0-9a2c-63bb9f1540ee)
 
@@ -13,8 +18,3 @@
 ### 4. Finally, tighten the pi case with the 4 black screws:  
 ![image](https://github.com/user-attachments/assets/986fb8b6-4028-4786-be37-5ce853b9c687)
 
-
-Note: If you put no batteries into the device, the pi draws power from the charging circuit which may can't provide enough current for the pi to boot because the peak current during booting is very high.
-So you must put at least one 18650 battery into the device to make the device boot.  
-
-PS： There is a tiktock video that introduces the [installation](https://www.tiktok.com/@h4ck1ng.me/video/7459517666387152150) of the pi
