@@ -1,5 +1,5 @@
 # HackberryPi5
-A handheld Linux device using Raspberry Pi4B as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard. With the feature of raspberry pi 5 you can build up to 16+512GB cyberdeck beast yourself!  
+A handheld Linux device using Raspberry Pi5 as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard. With the feature of raspberry pi 5 you can build up to 16+512GB cyberdeck beast yourself!  
 ![image](https://github.com/user-attachments/assets/17ffb5ee-2c5c-4bff-9d0e-ea26c675f7c2)
 ![image](https://github.com/user-attachments/assets/c9e8ad4b-4548-4cd1-b0e0-204725418002)
 ![image](https://github.com/user-attachments/assets/16aac808-e319-47fa-b272-95f865498eea)
