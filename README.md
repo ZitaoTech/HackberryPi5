@@ -25,8 +25,8 @@ You can install Kali, Raspberrypi OS, or Retropi and many other OS into Hackberr
 [This page](https://github.com/ZitaoTech/HackberryPi5/tree/main/Screen) will tell you how to install the display driver in a different operating system.  
 
 # <a name='Dimension and Weight  '>Dimension and Weight</a>
-Dimension of HackberryPi: 91.8x143.5x27.3mm  
+Dimension of HackberryPi: 91.8x143.5x27.5mm  
 Weight without battery: 252 Gram  
 Weight with battery: 342 Gram  
 
-![image](https://github.com/user-attachments/assets/682d2d03-820e-41f7-818a-eb4ac805adee)
+![image](https://github.com/user-attachments/assets/abde62cb-ad0b-4139-829d-5145123bdf4c)
