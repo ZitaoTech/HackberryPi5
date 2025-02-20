@@ -12,3 +12,8 @@
 ### 3. The nvme board from waveshare can also work with the AI accelerator card like Helio 8. 
 
 ![image](https://github.com/user-attachments/assets/bbd0a084-a3ed-4918-9839-20b891ac537a)
+
+
+### One using tip: You can hide the cable under the ssd like this so that the cable won't disturb you in the case  
+
+![image](https://github.com/user-attachments/assets/430f60b2-700e-4121-9df6-4abd2e86a46f)
