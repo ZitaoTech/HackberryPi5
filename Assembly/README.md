@@ -8,7 +8,7 @@ PS： There is a tiktock video that introduces the [installation](https://www.ti
 ### 1. First remove the 4 black screws on the pi case with the bigger black screwdriver:  
 ![image](https://github.com/user-attachments/assets/f017cd49-897c-44b0-9a2c-63bb9f1540ee)
 
-### 2. Then, remove the 4 yellow spacer and the white protector with the white printed tool:  
+### 2. Then, remove the 4 yellow spacer and the white protector with the white printed tool, I recommend tighening the two near the gpio slot first:  
 ![image](https://github.com/user-attachments/assets/be2bbd22-05a1-4118-88b1-0660393ef9ac)
 
 ### 3. Then, insert the pi5 with the 4 yellow spacer: 
